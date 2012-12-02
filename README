@@ -1,16 +1,20 @@
-*************************************************************
+***************************************************************
 * Doi ngu Dich thuat Tieng Viet cho Du an 'Universal Subtitles'
-*************************************************************
+***************************************************************
+Universal Subtitles - http://www.universalsubtitles.org
+
 
 + Ban dich goc bang Tieng Anh: 
    https://www.transifex.com/projects/p/universalsubtitles/resource/locale-en-LC_MESSAGES-django-po_0/
 
-+ Cong viec dich thuat cua nhom:
++ Cong viec dich thuat cua Doi ngu Dich thuat Tieng Viet:
    https://www.transifex.com/projects/p/universalsubtitles/language/vi/
 
+** Thuc hien cong viec dich thuat bang cach thay the cac xau, chuoi 
+   trong ban dich Tieng Anh goc sang Tieng Viet, sau do ghi de len tep cu.
+** Bat ki thay doi nao tu ban dich goc se duoc cap nhat kip thoi.
 
-
----------
+----------
 Thong tin:
 Huynh Trong Nghia
 Nghia.HT@hotmail.com
