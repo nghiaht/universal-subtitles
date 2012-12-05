@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Universal Subtitles\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-11-12 00:24-0600\n"
-"PO-Revision-Date: 2012-12-01 01:30+0000\n"
+"PO-Revision-Date: 2012-12-05 15:42+0000\n"
 "Last-Translator: nghiaht <nghia.ht@hotmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/universalsubtitles/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -2333,7 +2333,7 @@ msgstr "Tại sao tôi lại không thể cân chỉnh thời gian trên một b
 msgid ""
 "How do old revisions work? What if somebody makes a change to my work that I"
 " don't approve of?"
-msgstr "Các phiên bản cũ làm việc ra sao? Sẽ ra sao nếu có ai đó tinh chỉnh trên công việc của tôi mà tôi lại không đồng ý?"
+msgstr "Các bản hiệu đính cũ hoạt động ra sao? Sẽ ra sao nếu có ai đó chỉnh sửa công việc của tôi mà tôi lại không đồng ý?"
 
 #: templates/faq.html:36 templates/faq.html.py:186
 msgid "How do I add the Amara &quot;embed all videos&quot; code to my site?"
@@ -2505,7 +2505,7 @@ msgid ""
 "\t\tit make sense to check those older revisions before starting from scratch, \n"
 "\t\tbecause there could be useful work in an older revision.\n"
 "        "
-msgstr "\n        Mỗi bộ phụ đề hay bản dịch có kèm theo hồ sơ phiên bản đầy đủ. \n\t\tChỉ việc nhấn vào thẻ trên trang phụ đề thì bạn sẽ thấy được danh sách các phiên bản. \n\t\tBạn có thể sử dụng checkboxes ở bên trái nút \"so sánh phiên bản\" \n\t\tđể có thể thấy được sự khác biệt giữa hai phiên bản. Hoặc bạn cũng có thể nhấn vào bất cứ phiên bản nào, \n\t\tvà tiến hành chỉnh sửa dựa trên phiên bản đó hoặc hoàn tác lại chính phiên bản đó.\n        <br/><br/>\n        Nếu phiên bản hiện tại còn để trống, nhưng lại có những phiên bản cũ hơn, \n\t\tsẽ hợp lí hơn nếu bạn kiểm tra những phiên bản cũ này trước khi có một bắt đầu mới, \n\t\tbởi cũng sẽ có những phần việc khá hữu ích trong các phiên bản cũ đó.\n        "
+msgstr "\n        Mỗi bộ phụ đề hay bản dịch có kèm theo hồ sơ hiệu đính đầy đủ. \n\t\tChỉ việc nhấn vào thẻ trên trang phụ đề thì bạn sẽ thấy được danh sách các bản hiệu đính. \n\t\tBạn có thể sử dụng checkboxes ở bên trái nút \"so sánh hiệu đính\" \n\t\tđể có thể thấy được sự khác biệt giữa hai phiên bản. Hoặc bạn cũng có thể nhấn vào bất cứ phiên bản nào, \n\t\tvà tiến hành chỉnh sửa dựa trên phiên bản đó hoặc hoàn tác lại chính phiên bản đó.\n        <br/><br/>\n        Nếu phiên bản hiện tại còn để trống, nhưng lại có những phiên bản cũ hơn, \n\t\tsẽ hợp lí hơn nếu bạn kiểm tra những phiên bản cũ này trước khi bắt đầu làm mới, \n\t\tbởi cũng sẽ có những phần việc khá hữu ích trong các phiên bản cũ đó.\n        "
 
 #: templates/faq.html:188
 msgid ""
@@ -5953,11 +5953,11 @@ msgstr "Bạn cần đăng nhập vào để thực hiện việc đó."
 
 #: templates/videos/diffing.html:88
 msgid "Revision History"
-msgstr "Lịch sử phiên bản"
+msgstr "Lịch sử Hiệu đính"
 
 #: templates/videos/diffing.html:92
 msgid "Comparing Revision"
-msgstr "So sánh Phiên bản"
+msgstr "So sánh Hiệu đính"
 
 #: templates/videos/diffing.html:112 templates/videos/diffing.html.py:177
 msgid "Roll back to version"
@@ -6258,7 +6258,7 @@ msgstr "Bình Luận"
 
 #: templates/videos/subtitle-view.html:154
 msgid "Revisions"
-msgstr "Phiên bản"
+msgstr "Bản hiệu đính"
 
 #: templates/videos/subtitle-view.html:159
 #: templates/videos/subtitle-view.html:380
@@ -6286,7 +6286,7 @@ msgstr "được dịch từ"
 #: templates/videos/subtitle-view.html:300
 #: templates/videos/subtitle-view.html:302
 msgid "Revision"
-msgstr "Phiên bản đánh giá"
+msgstr "Bản hiệu đính"
 
 #: templates/videos/subtitle-view.html:192
 msgid "created"
@@ -6302,7 +6302,7 @@ msgstr "\n                            Phiên bản mới đây nhất cho ngôn 
 
 #: templates/videos/subtitle-view.html:242
 msgid "View revision history"
-msgstr "Xem lịch sử phiên bản"
+msgstr "Xem lịch sử hiệu đính"
 
 #: templates/videos/subtitle-view.html:247
 msgid "These subtitles are in progress."
@@ -6341,7 +6341,7 @@ msgstr "Để lại lời bình"
 
 #: templates/videos/subtitle-view.html:284
 msgid "Compare Revisions"
-msgstr "So sánh phiên bản "
+msgstr "So sánh Hiệu đính"
 
 #: templates/videos/subtitle-view.html:316
 msgid "Timing"
