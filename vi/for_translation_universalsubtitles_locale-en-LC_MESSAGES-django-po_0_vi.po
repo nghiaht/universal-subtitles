@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Universal Subtitles\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-11-12 00:24-0600\n"
-"PO-Revision-Date: 2012-12-05 15:42+0000\n"
+"PO-Revision-Date: 2012-12-25 13:54+0000\n"
 "Last-Translator: nghiaht <nghia.ht@hotmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/universalsubtitles/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -793,7 +793,7 @@ msgstr "Nhóm"
 msgid ""
 "Use this space to explain why you or your team need to caption or subtitle "
 "this video. Adding a note makes volunteers more likely to help out!"
-msgstr "Dùng chỗ này để diễn giải tại sao bạn hay nhóm bạn cần chú thích hoặc làm phụ đề đoạn phim này. Việc ghi chú thêm sẽ khiến nhiều tình nguyện viên sẵn sàng giúp đỡ hơn!"
+msgstr "Dùng chỗ này để diễn giải tại sao bạn hay nhóm của bạn cần thuyết minh hoặc làm phụ đề đoạn phim này. Việc ghi chú thêm sẽ khiến nhiều tình nguyện viên sẵn sàng giúp đỡ hơn!"
 
 #: apps/teams/models.py:654
 msgid "We automatically grab thumbnails for certain sites, e.g. Youtube"
@@ -930,7 +930,7 @@ msgid ""
 "                    <li><a href=\"%(custom)s\">Customize instructions to caption makers and translators</a></li>\n"
 "                </ul>\n"
 "                "
-msgstr "\n                Nhóm của bạn đã được khởi tạo. Và đây là một số bước tiếp theo:\n                <ul>\n                    <li><a href=\"%(edit)s\">Thay đổi cấp phép cho các thành viên trong nhóm</a></li>\n                    <li><a href=\"%(activate)s\">Kích hoạt và tùy chỉnh lưu lượng công việc cho nhóm của bạn</a></li>\n                    <li><a href=\"%(create)s\">Khởi tạo và tùy chỉnh các dự án</a></li>\n                    <li><a href=\"%(lang)s\">Thay đổi tùy chọn ngôn ngữ</a></li>\n                    <li><a href=\"%(custom)s\">Tùy chỉnh các hướng dẫn cho người làm chú thích và người dịch</a></li>\n                </ul>\n                "
+msgstr "\n                Nhóm của bạn đã được khởi tạo. Và đây là một số bước tiếp theo:\n                <ul>\n                    <li><a href=\"%(edit)s\">Thay đổi cấp phép cho các thành viên trong nhóm</a></li>\n                    <li><a href=\"%(activate)s\">Kích hoạt và tùy chỉnh lưu lượng công việc cho nhóm của bạn</a></li>\n                    <li><a href=\"%(create)s\">Khởi tạo và tùy chỉnh các dự án</a></li>\n                    <li><a href=\"%(lang)s\">Thay đổi tùy chọn ngôn ngữ</a></li>\n                    <li><a href=\"%(custom)s\">Tùy chỉnh các hướng dẫn cho người thuyết minh và người dịch</a></li>\n                </ul>\n                "
 
 #: apps/teams/views.py:200
 msgid "You do not have permission to delete this team."
@@ -1877,7 +1877,7 @@ msgstr "Chúng tôi muốn giúp sức cho việc kiểm tra widget phụ đề"
 
 #: templates/_testing_widget.html:5
 msgid "Just launch our feedback form and try captioning a video"
-msgstr "Chỉ việc mở mẫu đơn phản hồi của chúng tôi và hãy thử làm chú dẫn cho một đoạn phim"
+msgstr "Chỉ việc mở mẫu đơn phản hồi của chúng tôi và hãy thử thuyết minh cho một đoạn phim"
 
 #: templates/_testing_widget.html:7
 msgid "Test the Widget"
@@ -1947,12 +1947,12 @@ msgid ""
 "                Amara offers a set of professional tools and services that enable publishers and video platforms to create and manage high quality subtitles.  With Amara, you can build a community of volunteers to subtitle your content, integrate with professional services, and use a powerful quality control system to ensure world-class quality.  To learn more, see our <a href=\"http://www.universalsubtitles.org/en/enterprise/\">enterprise services</a> and contact Dean Jansen, <a href=\"mailto:dean@pculture.org\">dean@pculture.org</a>.\n"
 "            </p>\n"
 "        "
-msgstr "\n            <h2>Thông tin về Amara</h2>\n            <p>\n                Amara đem lại cho những cá nhân, cộng đồng, và các tổ chức lớn khả năng \n                vượt qua rào cản tiếp cận và ngôn ngữ đối với phim trực tuyến. Các công cụ đều miễn phí cả \n                và là mã nguồn mở giúp cho công việc làm phụ đề và dịch phim được đơn giản hơn, thu hút được nhiều \n                lời kêu gọi hơn, và trên hết là sự cộng tác.\n            </p>\n            <p>\n                Lợi ích của việc chú thích và làm phụ đề là rất lớn:\n                <ul>\n                    <li>Chú thích giúp các đoạn phim được dễ dàng truy cập hơn đối với những người bị câm hoặc điếc hoặc gặp phải vấn đề về nghe</li>\n                    <li>Dịch  thuật biến các đoạn phim bằng ngôn ngữ không phải là ngôn ngữ mà chúng ta nói được khả thi hơn đối với tất cả mọi người.</li>\n                    <li>Những người tạo phim nhận được: SEO tối hơn, nhiều lượt xem hơn, truy cập đến một lượng khán giả lớn hơn (có tiềm năng đa ngôn ngữ và cả toàn cầu), sự tiếp cận dành cho người câm hoặc gặp phải vấn đề về nghe, và rất nhiều thứ khác</li>\n                </ul>\n            </p>\n            <p>\n                Amara gồm ba phần chính:\n                <ul>\n                    <li>Một công cụ tạo và xem phụ đề(hay còn được gọi là widget)</li>\n                    <li>Một trag web cộng tác làm phụ đề</li>\n                    <li>Một giao thức mở cho việc tìm kiếm/chuyển giao phụ đề</li>\n                </ul>\n            </p>\n            <p>\n                Mọi thứ mà chúng tôi làm đều có giấy phép mã nguồn mở <a href=\"http://www.gnu.org/licenses/agpl-3.0.html\">AGPL</a>.\n            </p>\n            <h2>Tổ chức của chúng tôi</h2>\n            <p>\n                <a href=\"http://www.pculture.org/\">Tổ chức Xung kích Văn hóa (Participatory Culture Foundation)</a> \n                là một tổ chức phi lợi nhuận nhằm xây dựng các công cụ mở và miễn phí cho các phương tiện truyền thông dân chủ và \n                hướng trung tâm hơn. Các dự án khác của chúng tôi bao gồm <a href=\"http://www.getmiro.com/\">Miro</a>, \n                <a href=\"http://www.mirovideoconverter.com/\">Trình hoán chuyển phim Miro Video Converter</a>, \n                <a href=\"http://www.mirocommunity.org/\">Cộng đồng Miro</a>, and \n                <a href=\"http://www.openvideoalliance.org/\">Liên minh Phim Mở rộng (Open Video Alliance)</a>.\n            </p>\n            <p>\n                Amara là một dự án nổi bật của <a href=\"http://www.drumbeat.org/\">Mozilla Drumbeat</a>, \n                và tổ chức Mozilla đã cung cấp hỗ trợ phát triển.  \n                Viện Xã hội Mở (Open Society Institute) và Tổ chức MacArthur đều là các nhà tài trợ.\n            </p>\n            <h2>Dịch vụ Doanh nghiệp và Xuất bản</h2>\n            <p>\n                Amara cung cấp một tập hợp các công cụ chuyên nghiệp và dịch vụ nhằm cho phép các nhà xuất bản và các chuẩn phim tạo và quản lí những phụ đề chất lượng cao.  Với Amara, bạn có thể xây dựng một cộng đồng tình nguyện viên nhằm giúp làm phụ đề cho nội dung của bạn, kết hợp với các dịch vụ chuyên nghiệp, và sử dụng một hệ thống kiểm soát chất lượng mạnh mẽ nhằm đảm bảo đạt được chất lượng đẳng cấp thế giới.  Để tìm hiểu thêm, xem <a href=\"http://www.universalsubtitles.org/en/enterprise/\">dịch vụ doanh nghiệp</a> và liên hệ với Dean Jansen, <a href=\"mailto:dean@pculture.org\">dean@pculture.org</a>.\n            </p>\n        "
+msgstr "\n            <h2>Thông tin về Amara</h2>\n            <p>\n                Amara đem lại cho những cá nhân, cộng đồng, và các tổ chức lớn khả năng \n                vượt qua rào cản tiếp cận và ngôn ngữ đối với phim trực tuyến. Các công cụ đều miễn phí cả \n                và là mã nguồn mở giúp cho công việc làm phụ đề và dịch phim được đơn giản hơn, thu hút được nhiều \n                lời kêu gọi hơn, và trên hết là sự cộng tác.\n            </p>\n            <p>\n                Lợi ích của việc thuyết minh và làm phụ đề là rất lớn:\n                <ul>\n                    <li>Chú thích giúp các đoạn phim được dễ dàng truy cập hơn đối với những người bị câm hoặc điếc hoặc gặp phải vấn đề về nghe</li>\n                    <li>Dịch  thuật biến các đoạn phim bằng ngôn ngữ không phải là ngôn ngữ mà chúng ta nói được khả thi hơn đối với tất cả mọi người.</li>\n                    <li>Những người tạo phim nhận được: SEO tối hơn, nhiều lượt xem hơn, truy cập đến một lượng khán giả lớn hơn (có tiềm năng đa ngôn ngữ và cả toàn cầu), sự tiếp cận dành cho người câm hoặc gặp phải khó khăn khi nghe, và rất nhiều thứ khác</li>\n                </ul>\n            </p>\n            <p>\n                Amara gồm ba phần chính:\n                <ul>\n                    <li>Một công cụ tạo và xem phụ đề(hay còn được gọi là widget)</li>\n                    <li>Một trag web cộng tác làm phụ đề</li>\n                    <li>Một giao thức mở cho việc tìm kiếm/chuyển giao phụ đề</li>\n                </ul>\n            </p>\n            <p>\n                Mọi thứ mà chúng tôi làm đều có giấy phép mã nguồn mở <a href=\"http://www.gnu.org/licenses/agpl-3.0.html\">AGPL</a>.\n            </p>\n            <h2>Tổ chức của chúng tôi</h2>\n            <p>\n                <a href=\"http://www.pculture.org/\">Tổ chức Xung kích Văn hóa (Participatory Culture Foundation)</a> \n                là một tổ chức phi lợi nhuận nhằm xây dựng các công cụ mở và miễn phí cho các phương tiện truyền thông dân chủ và \n                hướng trung tâm hơn. Các dự án khác của chúng tôi bao gồm <a href=\"http://www.getmiro.com/\">Miro</a>, \n                <a href=\"http://www.mirovideoconverter.com/\">Trình hoán chuyển phim Miro Video Converter</a>, \n                <a href=\"http://www.mirocommunity.org/\">Cộng đồng Miro</a>, and \n                <a href=\"http://www.openvideoalliance.org/\">Liên minh Phim Mở rộng (Open Video Alliance)</a>.\n            </p>\n            <p>\n                Amara là một dự án nổi bật của <a href=\"http://www.drumbeat.org/\">Mozilla Drumbeat</a>, \n                và tổ chức Mozilla đã cung cấp hỗ trợ phát triển.  \n                Viện Xã hội Mở (Open Society Institute) và Tổ chức MacArthur đều là các nhà tài trợ.\n            </p>\n            <h2>Dịch vụ Doanh nghiệp và Xuất bản</h2>\n            <p>\n                Amara cung cấp một tập hợp các công cụ chuyên nghiệp và dịch vụ nhằm cho phép các nhà xuất bản và các chuẩn phim tạo và quản lí những phụ đề chất lượng cao.  Với Amara, bạn có thể xây dựng một cộng đồng tình nguyện viên nhằm giúp làm phụ đề cho nội dung của bạn, kết hợp với các dịch vụ chuyên nghiệp, và sử dụng một hệ thống kiểm soát chất lượng mạnh mẽ nhằm đảm bảo đạt được chất lượng đẳng cấp thế giới.  Để tìm hiểu thêm, xem <a href=\"http://www.universalsubtitles.org/en/enterprise/\">dịch vụ doanh nghiệp</a> và liên hệ với Dean Jansen, <a href=\"mailto:dean@pculture.org\">dean@pculture.org</a>.\n            </p>\n        "
 
 #: templates/base.html:9
 msgid ""
 "Universal subtitling: caption, translate, subtitle and transcribe video."
-msgstr "Phụ đề chung: chú dẫn, dịch thuật, làm phụ đề và chuyển thể phim."
+msgstr "Phụ đề chung: thuyết minh, dịch thuật, làm phụ đề và chuyển thể phim."
 
 #: templates/base.html:70
 msgid "Subtitle Videos"
@@ -2281,7 +2281,7 @@ msgstr "Tổ chức Phong trào Văn hóa (Participatory Culture Foundation) là
 
 #: templates/faq.html:23 templates/faq.html.py:78
 msgid "Will Amara support closed captions for the deaf and hard of hearing?"
-msgstr "Liệu Amara có hỗ trợ chú giải kín cho người mù hay người có vấn đề về nghe?"
+msgstr "Liệu Amara có hỗ trợ thuyết minh dạng đóng cho người mù hay người gặp phải khó khăn khi nghe?"
 
 #: templates/faq.html:24 templates/faq.html.py:82
 msgid "Will your subtitles support my language or characterset?"
@@ -2351,7 +2351,7 @@ msgid ""
 "\t\t\tWikipedia-like fashion. The software is free and open source and can be used and \n"
 "\t\t\t<a href=\"http://wiki.github.com/pculture/unisubs/dev-center\">improved by anyone</a>.\n"
 "\t\t"
-msgstr "\n      \t\tAmara là phương thức dễ dàng để bất kì ai cũng có thể thêm phụ đề, chú giải, \n\t\t\thay dịch thuật hầu như bất cứ đoạn phim nào trên web. Nó hoạt động theo phong cách cộng tác \n\t\t\tnhư Wikipedia vậy. Phần mềm miễn phí và nguồn mỏ và cho phép sử dụng \n\t\t\t<a href=\"http://wiki.github.com/pculture/unisubs/dev-center\">cũng như cải thiện bởi bất kì ai</a>.\n\t\t"
+msgstr "\n      \t\tAmara là phương thức dễ dàng để bất kì ai cũng có thể thêm phụ đề, thuyết minh, \n\t\t\thay dịch thuật hầu như bất cứ đoạn phim nào trên web. Nó hoạt động theo phong cách cộng tác \n\t\t\tnhư Wikipedia vậy. Phần mềm miễn phí và nguồn mỏ và cho phép sử dụng \n\t\t\t<a href=\"http://wiki.github.com/pculture/unisubs/dev-center\">cũng như cải thiện bởi bất kì ai</a>.\n\t\t"
 
 #: templates/faq.html:56
 msgid ""
@@ -2370,7 +2370,7 @@ msgstr "Phụ đề phim là nguồn tài nguyên rộng mở vốn chưa đư�
 #: templates/faq.html:68
 msgid ""
 "Captions make videos accessible for viewers who are deaf or hard of hearing "
-msgstr "Chú giải giúp cho đoạn phim của bạn dễ tiếp cận với người xem hơn đặc biệt là những người bị điếc hoặc gặp phải vấn đề về nghe "
+msgstr "Thuyết minh giúp cho đoạn phim của bạn dễ tiếp cận với người xem hơn đặc biệt là những người bị điếc hoặc gặp phải vấn đề về nghe "
 
 #: templates/faq.html:69
 msgid ""
@@ -2397,7 +2397,7 @@ msgstr "tổ chức Phong trào Văn hóa (Participatory Culture Foundation) là
 msgid ""
 "Yes, we are working on a solution for making closed captions [including "
 "information about sounds and music], as well as subtitles/translations."
-msgstr "Đúng vậy, chúng tôi đang làm việc nhằm tìm ra giải pháp trong việc làm chú giải kín [kèm theo cả thông tin về âm thanh, nhạc], cũng như phụ đề/bản dịch."
+msgstr "Đúng vậy, chúng tôi đang làm việc nhằm tìm ra giải pháp trong việc làm thuyết minh dạng đóng [kèm theo cả thông tin về âm thanh, nhạc], cũng như phụ đề/bản dịch."
 
 #: templates/faq.html:83
 msgid ""
@@ -2564,7 +2564,7 @@ msgstr "Nhận trợ giúp"
 
 #: templates/index.html:18
 msgid "The easiest way to caption and translate any video."
-msgstr "Cách dễ nhất để chú giải và dịch bất kì đoạn phim nào."
+msgstr "Cách dễ nhất để thuyết minh và dịch bất kì đoạn phim nào."
 
 #: templates/index.html:19
 msgid "Subtitles make videos more powerful, more global, and more searchable."
@@ -2607,7 +2607,7 @@ msgid ""
 "\n"
 "            Our deaf and hard of hearing users and non-profits request help for videos that need captions or translations. \n"
 "        "
-msgstr "\n            Những người dùng bị điếc hay gặp phải khó khăn khi nghe yêu cầu giúp đỡ cho các đoạn phim cần chú giải hay bản dịch. \n        "
+msgstr "\n            Những người dùng bị điếc hay gặp phải khó khăn khi nghe yêu cầu giúp đỡ cho các đoạn phim cần thuyết minh hay bản dịch. \n        "
 
 #: templates/index.html:44
 msgid "Start volunteering."
@@ -2622,7 +2622,7 @@ msgid ""
 "\n"
 "            Increase viewership with transcription, captioning, and translation services, and flexible API and integration options. Improve SEO, reach a global audience, and build a managed volunteer community.\n"
 "        "
-msgstr "\n            Tăng quyền cho người xem với kịch bản, chú giải, và các dịch vụ dịch thuật, cùng với bộ API mềm dẻo và các lựa chọn tích hợp khác. Tăng cường SEO, tiếp cận với lượng khán giả trên toàn cầu, và hình thành một cộng đồng tình nguyện viên có tổ chức.\n        "
+msgstr "\n            Tăng quyền lợi cho người xem với kịch bản, thuyết minh, và các dịch vụ dịch thuật, cùng với bộ API mềm dẻo và các lựa chọn tích hợp khác. Tăng cường SEO, tiếp cận với lượng khán giả trên toàn cầu, và hình thành một cộng đồng tình nguyện viên có tổ chức.\n        "
 
 #: templates/index.html:53
 msgid "See our enterprise services."
@@ -2635,7 +2635,7 @@ msgstr "Dành  cho Doanh nghiệp"
 #: templates/index.html:78
 msgid ""
 "The largest, most powerful captioning and translation platform in the world."
-msgstr "Thể thức chú giải và dịch thuật lớn mạnh nhất trên thế giới."
+msgstr "Thể thức làm thuyết minh và dịch thuật lớn mạnh nhất trên thế giới."
 
 #: templates/index.html:84
 msgid "TED"
@@ -2684,7 +2684,7 @@ msgstr "Phim nổi bật"
 
 #: templates/index_old.html:26
 msgid "Easily caption and translate your videos, with help from your viewers."
-msgstr "Dễ dàng chú giải và dịch phim của bạn, với sự trợ giúp từ chính người xem của mình."
+msgstr "Dễ dàng thuyết minh và dịch phim của bạn, với sự trợ giúp từ chính người xem của mình."
 
 #: templates/index_old.html:28
 msgid ""
@@ -2974,7 +2974,7 @@ msgid ""
 "            More captions will also make it simpler for computers to process, index, \n"
 "            and make sense of the ever growing sea of online video.\n"
 "           "
-msgstr "\n            Vấn đề trọng tâm của hội nghị thượng đỉnh này là tăng cường tính hiện hữu thiết thực và hữu dụng hơn đối với chú giải và phụ đề, \n            cả hai vốn rất bức thiết. Nó xảy đến đường đột vậy, \n            bởi lượng sử dụng phim trên internet cứ như quả tên lửa đạn đạo cứ phi tới&mdash;những người vốn dựa trên chú giải sẽ cảm thấy sợ vì bị bỏ mặc. \n            Những người dùng mới từ mọi nền văn hóa khác nhau đang trực tuyến cùng nhau; \n            việc chuẩn hóa và phổ biến công nghệ có thể tạo được lượng khán giả với tiềm năng lớn hơn và những thông điệp có thể vượt qua rào cản văn hóa một cách dễ dàng. \n            Nhiều chú giải hơn cũng sẽ khiến cho máy tính xử lí, lên chỉ mục được đơn giản hơn, \n            và hợp lí hơn ở giữa biên trời phim trực tuyến như thế này.\n           "
+msgstr "\n            Vấn đề trọng tâm của hội nghị thượng đỉnh này là tăng cường tính hiện hữu thiết thực và hữu dụng hơn đối với làm thuyết minh và phụ đề, \n            cả hai vốn rất bức thiết. Nó xảy đến đường đột vậy, \n            bởi lượng sử dụng phim trên internet cứ như quả tên lửa đạn đạo cứ phi tới&mdash;những người vốn dựa trên chú giải sẽ cảm thấy sợ vì bị bỏ mặc. \n            Những người dùng mới từ mọi nền văn hóa khác nhau đang trực tuyến cùng nhau; \n            việc chuẩn hóa và phổ biến công nghệ có thể tạo được lượng khán giả với tiềm năng lớn hơn và những thông điệp có thể vượt qua rào cản văn hóa một cách dễ dàng. \n            Nhiều chú giải hơn cũng sẽ khiến cho máy tính xử lí, lên chỉ mục được đơn giản hơn, \n            và hợp lí hơn ở giữa biên trời phim trực tuyến như thế này.\n           "
 
 #: templates/opensubtitles2010.html:91
 msgid "Organizers, Facilitators, Sponsors"
@@ -3149,7 +3149,7 @@ msgid ""
 "\n"
 "        Use captioning and transcription contractors to create your subtitles, then require staff review and approval before they are published back to your server. Remember, no one sees your subtitles until YOU publish it.\n"
 "    "
-msgstr "\n        Vận dụng các bên hợp đồng trong việc tạo chú giải và kịch bản nhằm tạo phụ đề cho bạn, sau đó yêu cầu đội ngũ đánh giá và chấp thuận trước khi chúng được đăng tải ngược trở lại máy chủ của bạn. Hãy nhớ rằng, không ai có thể thấy phụ đề của bạn cho tới lúc BẠN đăng tải nó.\n    "
+msgstr "\n        Kết hợp với các bên hợp đồng trong việc làm thuyết minh và kịch bản để tạo phụ đề cho bạn, sau đó yêu cầu đội ngũ đánh giá và chấp thuận trước khi chúng được đăng tải ngược trở lại máy chủ của bạn. Hãy nhớ rằng, không ai có thể thấy phụ đề của bạn cho tới lúc BẠN đăng tải nó.\n    "
 
 #: templates/enterprise/automated-workflows.html:23
 msgid "Crowdsourced subtitles, followed by staff review"
@@ -3160,18 +3160,18 @@ msgid ""
 "\n"
 "        In many cases, organizations want to leverage the power of the crowd, but don’t want to leave any chance for poor quality captions or subtitles to appear on their content. This workflow keeps videos private until a staff member has approved the subtitles.\n"
 "    "
-msgstr "\n        Trong nhiều trường hợp, các tổ chức muốn nâng cao sức mạnh của đám đông, nhưng lại không muốn có những bản chú giải hay phụ đề kém chất lượng xuất hiện trên nội dung của họ. Lưu lượng công việc này giữ cho các thước phim nằm trong trạng thái riêng tư cho tới khi một thành viên trong đội ngũ chấp thuận phụ đề.\n    "
+msgstr "\n        Trong nhiều trường hợp, các tổ chức muốn nâng cao sức mạnh của đám đông, nhưng lại không muốn có những bản thuyết minh hay phụ đề kém chất lượng xuất hiện trên nội dung của họ. Lưu lượng công việc này giữ cho các thước phim nằm trong trạng thái riêng tư cho tới khi một thành viên trong đội ngũ chấp thuận phụ đề.\n    "
 
 #: templates/enterprise/automated-workflows.html:30
 msgid "Professionally created English captions, crowd translation"
-msgstr "Những bản chú giải Tiếng Anh, dịch thuật công được tạo một cách chuyên nghiệp"
+msgstr "Những bản thuyết minh Tiếng Anh, dịch thuật công được tạo dựng một cách chuyên nghiệp"
 
 #: templates/enterprise/automated-workflows.html:31
 msgid ""
 "\n"
 "        Amara offers professional- quality captions at very low cost with quick turn-around times. English can often be done in less than a day.  Once English is completed, it’s a snap to request translations from volunteers or staff. We have seen videos translated into multiple languages in just days—through a volunteer crowd.\n"
 "    "
-msgstr "\n        Amara đem lại những bản chú giải chất lượng chuyên nghiệp với chi phí rất thấp cùng với khoảng thời gian xoay vòng vốn ngắn. Tiếng Anh có thể được thực hiện chỉ trong vòng chưa đầy một ngày. Một khi bản Tiếng Anh được hoàn tất, thì đó là bước ngoặt để yêu cầu các bản dịch đến từ những tình nguyện viên hay từ chính đội ngũ. Chúng tôi đã thấy những thước phim được dịch sang nhiều thứ tiếng chỉ trong vài ngày-thông qua một cộng động tình nguyện đông đúc như thế này.\n    "
+msgstr "\n        Amara đem lại những bản thuyết minh chất lượng chuyên nghiệp với chi phí rất thấp cùng với khoảng thời gian xoay vòng vốn ngắn. Tiếng Anh có thể được thực hiện chỉ trong vòng chưa đầy một ngày. Một khi bản Tiếng Anh được hoàn tất, thì đó là bước ngoặt để yêu cầu các bản dịch đến từ những tình nguyện viên hay từ chính đội ngũ. Chúng tôi đã thấy những thước phim được dịch sang nhiều thứ tiếng chỉ trong vài ngày-thông qua một cộng động tình nguyện đông đúc như thế này.\n    "
 
 #: templates/enterprise/automated-workflows.html:35
 msgid "Crowd translations, with professional quality-control"
@@ -3257,7 +3257,7 @@ msgid ""
 "\n"
 "        Corporations need to communicate with their staff and their customers around the world, and video is becoming a major part of that process. With Amara, companies make it possible for staff, customers, and contractors to caption and translate videos, make them searchable, and share them publicly or privately.\n"
 "    "
-msgstr "\n        Các tập đoàn cần giao tiếp với nhân viên của họ và với khách hàng trên khắp thế giới, và phim đã trở thành một phần chính trong quá trình đó. Với Amara, các công ti có thể giúp cho đội ngũ nhân viên, khách hàng, và bên hợp đồng có thể làm chú giải và dịch phim được, làm cho chúng dễ tìm kiếm hơn, và chia sẽ chúng công khai hoặc riêng tư.\n    "
+msgstr "\n        Các tập đoàn cần giao tiếp với nhân viên của họ và với khách hàng trên khắp thế giới, và phim đã trở thành một phần chính trong quá trình đó. Với Amara, các công ti có thể giúp cho đội ngũ nhân viên, khách hàng, và bên hợp đồng có thể làm thuyết minh và dịch phim được, làm cho chúng dễ tìm kiếm hơn, và chia sẽ chúng công khai hoặc riêng tư.\n    "
 
 #: templates/enterprise/education.html:6
 msgid "Universities and Online Education"
@@ -3268,7 +3268,7 @@ msgid ""
 "\n"
 "            Most of the leading online education companies and organizations use Amara to caption and translate video, including Coursera, Udacity, Khan Academy, TED Ed, as well as individual colleges and universities.  As online education explodes in popularity, subtitles are essential to making courses accessible and international. Colleges and universities are using Amara to make their rapidly growing video resources readily available to everyone.\n"
 "        "
-msgstr "\n            Hầu hết các công ti giáo dục trực tuyến hàng đầu sử dụng Amara để tạo bản chú giải và dịch phim, bao gồm Coursera, Udacity, Khan Academy, TED Ed, cũng như các trường cao đẳng và đại học tư.  Vì giáo dục trực tuyến bùng nổ và trở nên phổ biến, phụ đề sẽ rất thiết yếu để giúp cho các khóa học được dễ dàng tiếp cận hơn và tăng tính quốc tế. Các trường cao đẳng và đại học đang sử dụng Amara để tạo dựng được nguồn tài nguyên phim vốn phát triển như vũ bão sẽ trở nên sẵn sàng với tất cả mọi người.\n        "
+msgstr "\n            Hầu hết các công ti giáo dục trực tuyến hàng đầu sử dụng Amara để tạo bản thuyết minh và dịch phim, bao gồm Coursera, Udacity, Khan Academy, TED Ed, cũng như các trường cao đẳng và đại học tư.  Vì giáo dục trực tuyến bùng nổ và trở nên phổ biến, phụ đề sẽ rất thiết yếu để giúp cho các khóa học được dễ dàng tiếp cận hơn và tăng tính quốc tế. Các trường cao đẳng và đại học đang sử dụng Amara để tạo dựng được nguồn tài nguyên phim vốn phát triển như vũ bão sẽ trở nên sẵn sàng với tất cả mọi người.\n        "
 
 #: templates/enterprise/education.html:21
 msgid "Learn more about our work in education:"
@@ -3279,7 +3279,7 @@ msgid ""
 "\n"
 "        Producers, publishers, and distributors of film and television use Amara to make captioning and translation simpler and less expensive. Amara makes it possible to caption and translate for global viewing audiences much more cost effectively than traditional approaches.\n"
 "    "
-msgstr "\n        Nhà sản xuất, nhà xuất bản, và nhà phân phối phim truyền hình sử dụng Amara để tạo chú giải và bản dịch được đơn giản và ít tốn kém hơn. Amara khiến cho việc tạo chú giải và dịch thuật dành cho khán giả toàn cầu đạt được hiệu quả về chi phí so với cách truyền thống.\n    "
+msgstr "\n        Nhà sản xuất, nhà xuất bản, và nhà phân phối phim truyền hình sử dụng Amara để làm thuyết minh và bản dịch được đơn giản và ít tốn kém hơn. Amara khiến cho việc tạo chú giải và dịch thuật dành cho khán giả toàn cầu đạt được hiệu quả về chi phí so với cách truyền thống.\n    "
 
 #: templates/enterprise/film-tv.html:19
 msgid ""
@@ -3308,7 +3308,7 @@ msgid ""
 "\n"
 "        Amara currently supports some of the largest volunteer video translation efforts on the planet. Our technology makes captioning, subtitling, and translating very easy, fun, and engaging which enables ongoing, massive, collaborations.\n"
 "    "
-msgstr "\n        Amara hiện đang hỗ trợ một trong số những nỗ lực tình nguyện dịch thuật phim lớn nhất trên hành tinh. Công nghệ của chúng tôi giúp cho việc làm chú dẫn, phụ đề, và dịch thuật trở nên dễ dàng, vui, và thu hút được sự cộng tác, gần gũi, và đồ sộ.\n    "
+msgstr "\n        Amara hiện đang hỗ trợ một trong số những nỗ lực tình nguyện dịch thuật phim lớn nhất trên hành tinh. Công nghệ của chúng tôi giúp cho việc làm thuyết minh, phụ đề, và dịch thuật trở nên dễ dàng, vui, và thu hút được sự cộng tác, gần gũi, và đồ sộ.\n    "
 
 #: templates/enterprise/global-reach.html:19
 msgid "Private Crowd Subtitle Creation"
@@ -3319,18 +3319,18 @@ msgid ""
 "\n"
 "        If you have a workforce, student group, or any other non-public crowd, you can limit access for captioning, translating, and subtitling OR reviewing the work of peers, volunteers, or professionals.\n"
 "    "
-msgstr "\n        Nếu bạn có một lực lượng lao động, nhóm sinh viên, hay bất kì nhóm không công khai nào khác, bạn có thể giới hạn quyền truy cập lại trong việc làm chú dẫn, dịch thuật, và làm phụ đề HOẶC đánh giá lại công việc của các cộng sự ngang hàng, các tình nguyện viên, hay các tay chuyên nghiệp.\n    "
+msgstr "\n        Nếu bạn có một lực lượng lao động, nhóm sinh viên, hay bất kì nhóm không công khai nào khác, bạn có thể giới hạn quyền truy cập lại trong việc làm thuyết minh, dịch thuật, và làm phụ đề HOẶC đánh giá lại công việc của các cộng sự ngang hàng, các tình nguyện viên, hay các tay chuyên nghiệp.\n    "
 
 #: templates/enterprise/global-reach.html:24
 msgid "Professional Captioning and Translation Services"
-msgstr "Dịch vụ thực hiện Chú dẫn và Dịch thuật Chuyên nghiệp"
+msgstr "Dịch vụ thực hiện Thuyết minh và Dịch thuật Chuyên nghiệp"
 
 #: templates/enterprise/global-reach.html:25
 msgid ""
 "\n"
 "        Use professional services for captioning or subtitling into nearly any language, or even to help with quality control. All completed work is centralized on Amara, ready for incremental quality control, integration, and deployment.\n"
 "    "
-msgstr "\n        Sử dụng các dịch vụ chuyên nghiệp để làm chú dẫn hay phụ đề bằng hầu hết các thứ tiếng, hay thậm chí là giúp kiểm soát chất lượng. Toàn bộ công việc được hoàn tất sẽ được tập trung trên Amara, sẵn sàng cho việc kiểm soát chất lượng tăng cường, tích hợp và triển khai.\n    "
+msgstr "\n        Sử dụng các dịch vụ chuyên nghiệp để làm thuyết minh hay phụ đề bằng hầu hết các thứ tiếng, hay thậm chí là giúp kiểm soát chất lượng. Toàn bộ công việc được hoàn tất sẽ được tập trung trên Amara, sẵn sàng cho việc kiểm soát chất lượng tăng cường, tích hợp và triển khai.\n    "
 
 #: templates/enterprise/global-reach.html:29
 msgid "Hybrid Approach"
@@ -3348,7 +3348,7 @@ msgid ""
 "\n"
 "        In governments around the world, making video accessible is often a legal requirement, not an option.  Amara makes it much easier to coordinate captioning and translation efforts, so that every citizen gains access.\n"
 "    "
-msgstr "\n        Trong các chính quyền trên khắp thế giới, làm cho phim được dễ truy cập hơn thường là một yêu cầu hợp pháp, không phải là lựa chọn.  Amara khiến cho các nỗ lực phối hợp thực hiện chú dẫn và dịch thuật được dễ dàng hơn, vì thế mọi công dần đều có thể tiếp cận.\n    "
+msgstr "\n        Trong các chính quyền trên khắp thế giới, làm cho phim được dễ truy cập hơn thường là một yêu cầu hợp pháp, không phải là lựa chọn.  Amara khiến cho các nỗ lực phối hợp thực hiện thuyết minh và dịch thuật được dễ dàng hơn, vì thế mọi công dần đều có thể tiếp cận.\n    "
 
 #: templates/enterprise/index.html:6
 msgid "The Most Efficient and Cost Effective Subtitling Platform in the World"
@@ -3359,7 +3359,7 @@ msgid ""
 "\n"
 "            Amara Enterprise offers unmatched capabilities to create, edit, and manage production ready subtitles at remarkably low costs. You have total flexibility: order captions and translations from professional services, build a volunteer community, manage internal staff or external contractors, and integrate your publishing platform through our powerful API. We can make everything you do with subtitles easier, faster, and cheaper. \n"
 "        "
-msgstr "\n            Amara Enterprise cung cấp các khả năng ngoài sức tưởng tượng để tạo, chỉnh sửa, va f quản lí sản xuất các phụ đề với chi phí thấp đáng kể. Bạn có toàn bộ sự mềm dẻo: đặt hàn chú dẫn và bản dịch từ các dịch vụ chuyên nghiệp, xây dựng một cộng đồng tình nguyện viên, quản lí đội ngũ bên trong hay bên hợp đồng ở ngoài, và tích hợp thể thức đăng tải của bạn thông qua bộ API mạnh mẽ của chúng tôi. Chúng tôi có thể khiến cho mọi thứ mà bạn làm với phụ đề được dễ dàng hơn, nhanh hơn, và rẻ hơn. \n        "
+msgstr "\n            Amara Enterprise cung cấp các khả năng ngoài sức tưởng tượng để tạo, chỉnh sửa, va f quản lí sản xuất các phụ đề với chi phí thấp đáng kể. Bạn có toàn bộ sự mềm dẻo: đặt hàng bản thuyết minh và bản dịch từ các dịch vụ chuyên nghiệp, xây dựng một cộng đồng tình nguyện viên, quản lí đội ngũ bên trong hay bên hợp đồng ở ngoài, và tích hợp thể thức đăng tải của bạn thông qua bộ API mạnh mẽ của chúng tôi. Chúng tôi có thể khiến cho mọi thứ mà bạn làm với phụ đề được dễ dàng hơn, nhanh hơn, và rẻ hơn. \n        "
 
 #: templates/enterprise/index.html:13
 msgid "Contact us"
@@ -3390,7 +3390,7 @@ msgid ""
 "\n"
 "        For years, companies like Mozilla, Twitter, and Facebook have built volunteer communities to translate their websites.  Amara makes this possible for captions and subtitles.  With Amara, you can accomplish the seemingly impossible task of translating your videos into dozens of languages.  Quickly build a powerful, high-quality volunteer translation and captioning team that makes your content truly global. \n"
 "    "
-msgstr "\n        Trong nhiều năm, các công ti như Mozilla, Twitter, và Facebook đã xây dựng các cộng đồng tình nguyện viên để dịch trang web của họ.  Amara khiến cho việc làm chú dẫn và phụ đề khả thi hơn.  Với Amara, bạn có thể hoàn thành những công việc dịch thuật tưởng chừng như không thể sang hàng tá thứ tiếng khác.  Nhanh chóng xây dựng một nhóm tình nguyện viên dịch thuật và thực hiện chú dẫn giúp cho nội dung của bạn thực sự mang tính toàn cầu. \n    "
+msgstr "\n        Trong nhiều năm, các công ti như Mozilla, Twitter, và Facebook đã xây dựng các cộng đồng tình nguyện viên để dịch trang web của họ.  Amara khiến cho việc làm thuyết minh và phụ đề khả thi hơn.  Với Amara, bạn có thể hoàn thành những công việc dịch thuật tưởng chừng như không thể sang hàng tá thứ tiếng khác.  Nhanh chóng xây dựng một nhóm tình nguyện viên dịch thuật và thực hiện chú dẫn giúp cho nội dung của bạn thực sự mang tính toàn cầu. \n    "
 
 #: templates/enterprise/index.html:43
 msgid ""
@@ -3438,7 +3438,7 @@ msgid ""
 "\n"
 "        Access professional services including paid captions, translations, and quality control.  Or use your own staff and contractors and use Amara to coordinate their work remotely.\n"
 "    "
-msgstr "\n        Truy cập các dịch vụ chuyên nghiệp bao gồm thực hiện chú dẫn, dịch thuật, và kiểm soát chất lượng có thu phí.  Hoặc sử dụng đội ngũ của bạn và bên hợp đồng và rồi sử dụng Amara để phối hợp công việc của họ từ xa.\n    "
+msgstr "\n        Truy cập các dịch vụ chuyên nghiệp bao gồm thực hiện thuyết minh, dịch thuật, và kiểm soát chất lượng có thu phí.  Hoặc sử dụng đội ngũ của bạn và bên hợp đồng và rồi sử dụng Amara để phối hợp công việc của họ từ xa.\n    "
 
 #: templates/enterprise/index.html:64
 msgid "Crowdsource with Professional Review"
@@ -3482,7 +3482,7 @@ msgid ""
 "\n"
 "        Non-profit organizations use Amara to share their mission, their work, and their media around the world.  Non-profits are ideally positioned to build volunteer subtitling communities—your existing supporters will be delighted to find a new way to help support your organization.  Creating a volunteer team helps deepen engagement with your organization and lets you caption and translate videos that would be unaffordable to subtitle with a traditional approach.\n"
 "    "
-msgstr "\n        Các tổ chức phi lợi nhuận sử dụng Amara để chia sẻ sứ mạng của họ, công việc của họ, và phương tiện truyền thông của họ trên khắp thế giới.  Các tổ chức phi lợi nhuận là vị trí lí tưởng để hình thành nên các cộng đồng tình nguyện viên làm phụ đề—những người hỗ trợ hiện tại của bạn sẽ phấn khởi hơn khi tìm được một cách mới để hỗ trợ cho tổ chức của bạn.  Tạo một nhóm tình nguyện viên giúp củng cố sự quan tâm sâu rộng với tổ chức của bạn và giúp bạn làm chú dẫn, dịch các thước phim vốn dĩ khó có thể làm phụ đề được bằng cách truyền thống.\n    "
+msgstr "\n        Các tổ chức phi lợi nhuận sử dụng Amara để chia sẻ sứ mạng của họ, công việc của họ, và phương tiện truyền thông của họ trên khắp thế giới.  Các tổ chức phi lợi nhuận là vị trí lí tưởng để hình thành nên các cộng đồng tình nguyện viên làm phụ đề—những người hỗ trợ hiện tại của bạn sẽ phấn khởi hơn khi tìm được một cách mới để hỗ trợ cho tổ chức của bạn.  Tạo một nhóm tình nguyện viên giúp củng cố sự quan tâm sâu rộng với tổ chức của bạn và giúp bạn làm thuyết minh, dịch các thước phim vốn dĩ khó có thể làm phụ đề được bằng cách truyền thống.\n    "
 
 #: templates/enterprise/non-profits.html:21
 msgid ""
@@ -3496,7 +3496,7 @@ msgid ""
 "\n"
 "        Any organization that creates video can reach more people with subtitles, and Amara provides the most options and flexibility to caption and translate your videos. Many video publishers use Amara to create volunteer communities—engaging the people who watch their videos to caption and translate them for the world, ultimately reaching more viewers.\n"
 "    "
-msgstr "\n        Bất kì tổ chức nào mà tạo các thước phim vốn có thể tiếp cận với nhiều người hơn bằng phụ đề, và Amara cung cấp nhiều lựa chọn và sự mềm dẻo nhất để thực hiện chú dẫn và dịch phim của bạn. Nhiều nhà phát hành phim sử dụng Amara để tạo ra các cộng đồng tình nguyện viên—thu hút mọi người xem phim của họ để làm chú dẫn và dịch chúng cho khắp thế giới, và cuối cùng là tiếp cận với nhiều người xem hơn.\n    "
+msgstr "\n        Bất kì tổ chức nào mà tạo các thước phim vốn có thể tiếp cận với nhiều người hơn bằng phụ đề, và Amara cung cấp nhiều lựa chọn và sự mềm dẻo nhất để làm thuyết minh và dịch phim của bạn. Nhiều nhà phát hành phim sử dụng Amara để tạo ra các cộng đồng tình nguyện viên—thu hút mọi người xem phim của họ để làm thuyết minh và dịch chúng cho khắp thế giới, và cuối cùng là tiếp cận với nhiều người xem hơn.\n    "
 
 #: templates/enterprise/quality-control.html:10
 msgid ""
@@ -3521,7 +3521,7 @@ msgid ""
 "\n"
 "            Some universities use paid captioning services to quickly caption lecture videos and then invite experts in the university community to fix any mistakes with proper names or technical terms.\n"
 "        "
-msgstr "\n            Một số trường đại học sử dụng các dịch vụ làm chú dẫn trả phí để nhanh chóng làm chú dẫn cho các thước phim và mời các chuyên gia trong cộng đồng đại học để đính chính lại bằng các tên hay thuật ngữ phù hợp hơn.\n        "
+msgstr "\n            Một số trường đại học sử dụng các dịch vụ thuyết minh trả phí để nhanh chóng làm chú dẫn cho các thước phim và mời các chuyên gia trong cộng đồng đại học để đính chính lại bằng các tên hay thuật ngữ phù hợp hơn.\n        "
 
 #: templates/enterprise/quality-control.html:22
 msgid ""
@@ -3535,7 +3535,7 @@ msgid ""
 "\n"
 "        At its core, Amara is the definitive platform for managing captions and subtitles. Whether you are creating, revising, or translating subtitles—you can choose to centralize the management—or divide up your content, and delegate responsibilities and control.\n"
 "    "
-msgstr "\nNhư cốt lõi của nó vậy, Amara là thể thức xác định rõ ràng trong việc quản lí chú dẫn và phụ đề. Dù là bạn đang tạo, đánh giá, hay dịch phụ đề—bạn có thể lựa chọn nhằm tập trung sự quản lí—hoặc phân chia nội dung của bạn, để rồi giao phó trách nhiệm và kiểm soát"
+msgstr "\nNhư cốt lõi của nó vậy, Amara là thể thức xác định rõ ràng trong việc quản lí bản thuyết minh và phụ đề. Dù là bạn đang tạo, đánh giá, hay dịch phụ đề—bạn có thể lựa chọn nhằm tập trung sự quản lí—hoặc phân chia nội dung của bạn, để rồi giao phó trách nhiệm và kiểm soát"
 
 #: templates/enterprise/subtitle-management.html:12
 msgid "Import"
@@ -3579,7 +3579,7 @@ msgstr "\n            Trình xem bản chuyển thể tương tác tuyệt đẹ
 
 #: templates/jsdemo/home.html:16
 msgid "Subtitles and Captions for Every Video on the Web"
-msgstr "Làm Phụ đề và Chú dẫn cho mọi thước phim trên thế giới Web"
+msgstr "Làm Phụ đề và Thuyết minh cho mọi thước phim trên thế giới Web"
 
 #: templates/jsdemo/home.html:19
 msgid "The Problem"
@@ -3599,7 +3599,7 @@ msgstr "Sứ mạng của chúng tôi"
 msgid ""
 "We're trying to make captioning, subtitling, and translating video publicly "
 "accessible in a way that's free and open, just like the Web."
-msgstr "Chúng tôi đang cố gắng làm chú dẫn, phụ đề, và dịch phim để dễ truy cập công khai hơn và làm sao cho nó được miễn phí, mở như Web vậy."
+msgstr "Chúng tôi đang cố gắng làm thuyết minh, phụ đề, và dịch phim để dễ truy cập công khai hơn và làm sao cho nó được miễn phí, mở như Web vậy."
 
 #: templates/jsdemo/home.html:21
 msgid "Learn More"
@@ -3629,7 +3629,7 @@ msgstr "Widget Phụ đề"
 msgid ""
 "A simple way to create and add captions to almost any video on the web "
 "(without having to transcode or re-upload videos)."
-msgstr "Cách đơn giản đẻ tạo và thêm chú dẫn cho hầu hết mọi thước phim có trên web (mà không phải chuyển mã hoặc tải phim lên lại)."
+msgstr "Cách đơn giản để tạo và thêm thuyết minh cho hầu hết mọi thước phim có trên web (mà không phải chuyển mã hoặc tải phim lên lại)."
 
 #: templates/jsdemo/home.html:35
 msgid "Community Site"
