@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Amara\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-03 13:31-0600\n"
-"PO-Revision-Date: 2014-03-14 20:11+0700\n"
+"PO-Revision-Date: 2014-03-14 21:36+0700\n"
 "Last-Translator: Huynh Trong Nghia <Nghia.HT@hotmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/"
 "universalsubtitles/language/vi/)\n"
@@ -2203,6 +2203,8 @@ msgstr ""
 #: templates/_testing_widget.html:5
 msgid "Just launch our feedback form and try captioning a video"
 msgstr ""
+"Chỉ việc mở mẫu đơn phản hồi của chúng tôi lên và thử thuyết minh cho một "
+"thước phim"
 
 #: templates/_testing_widget.html:11
 msgid ""
